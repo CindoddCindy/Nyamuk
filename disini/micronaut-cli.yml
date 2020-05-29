@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: test.spring
+---
+testFramework: junit
+sourceLanguage: java
